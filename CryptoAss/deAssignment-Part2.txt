@@ -1,0 +1,12 @@
+Implement the index of coincidence and the mutual index of coincidence to compute the following:
+    - the index of coincidence of text A.
+    - the mutual index of coincidence of texts A and B.
+    
+Remember to submit all programming codes that you wrote for doing this task.
+
+You will not be given marks if you just give those indices without proper codes.
+
+Text A: cyber security is about how we develop secure computers and computer networks, to ensure that the data stored and transmitted through them is protected from unauthorized access or to combat digital security threats and hazards. as we conduct more of our social, consumer and business activities online, there is a corresponding increase in the demand for ict professionals to manage our digital environment and economy. 
+
+Text B: cyber security has been identified as one of the strategic priorities in australia to meet the demands of law enforcement, national and state governments, defense, security and finance industries. jobs of the future will be in all of these areas ensuring there is national capability to maintain and build our essential services and stop them from being disrupted, destroyed, or threatened, and that our personal information is not communicated, shared, visualized or analysed without our permission.
+
